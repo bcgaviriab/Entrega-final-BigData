@@ -1,0 +1,13 @@
+deepforest==2.0.0 
+numpy==1.26.4 
+pandas==2.3.3 
+geopandas 
+rasterio 
+shapely 
+tqdm 
+pillow 
+matplotlib 
+albumentations==2.0.8 
+opencv-python-headless==4.11.0.86 
+opencv-python==4.11.0.86
+scikit-learn
